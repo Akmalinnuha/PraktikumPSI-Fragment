@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contoh Fragmen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Di bawah ini adalah implementasi imageview fragmen 1</string>
+    <string name="aryadesc">Born the third child of Eddard and Catelyn Stark, Arya never wanted to be a lady or waste time with formality.
+        She thought that was a boring task better left to her siblings. But when her father was murdered and her family deposed, young Arya found
+        herself on a new journey that would take her across Westeros, and eventually to Essos where she trained to be a Faceless Man that transformed
+        her into an accomplished swordswoman and deadly assassin. It was a transformation that would change the course of her life - and all of Westeros
+        - forever.</string>
+    <string name="info1">PLACE OF BIRTH:\nWinterfell</string>
+    <string name="info2">FIRST APPEARANCE:\nGame of Thrones\n\"Winter is Coming\"(2011)</string>
+    <string name="info3">SPECIAL MOVES:\nFace-Stealer\nDagger Slash</string>
+    <string name="toFragment2">Menuju fragmen 2</string>
+</resources>
